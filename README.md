@@ -13,6 +13,6 @@ The data sets and  number of training samples can be selected within the code.
 ## Usage:
 For example, when DataSet Indianpines takes 5-30 training sample points for each class after dimention reduction of PCA, the method of calling sw_box algorithm for 10 iterations is as follows:
 - final_filtering('Indianpines', 'sw_box', [5,10,15,30], 1, 10) 
-- 
+
 Then the results are then automatically saved to file "all_result.txt".
 
