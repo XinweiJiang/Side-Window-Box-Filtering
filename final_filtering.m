@@ -120,6 +120,7 @@ function [] = final_filtering(DataSetName, classifier, train_number, o_p_r, iter
                 case 'Indianpines'
                     if o_p_r == 0
                         data = shape_adapt_sw(img, 30);
+                    elseif o_p_r == 1
                         img = img_pca(img,110);
                         data = shape_adapt_sw(img, 5); 
                     end
