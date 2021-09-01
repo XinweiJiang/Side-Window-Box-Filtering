@@ -1,4 +1,17 @@
 # Side-Window-Box-Filtering
+Code for the paper 'Side Window based Box Filter for Spectral-Spatial Feature Extraction of Hyperspectral Imagery' submitted to TGRS.
+```
+@article{zhang2021s3pca,
+  title={Side Window based Box Filter for Spectral-Spatial Feature Extraction of Hyperspectral Imagery},
+  author={Qin Yan and Xinwei Jiang and Yongshan Zhang and Xiaobo Liu and Zhihua Cai},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={submitted},
+  year={2021},
+  publisher={IEEE}
+}
+```
+
+
 - Based on YuanhaoGong/SideWindowFilter (https://github.com/YuanhaoGong/SideWindowFilter) open source.
 - Adding HSI datasets and some filtering code ( all data were classified using SVM ). Some codes need to obtain MATLAB filtered data in advance( Some datasets are too large and cannot be uploaded to the GitHub ). 
 
