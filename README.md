@@ -1,7 +1,7 @@
 # Side-Window-Box-Filtering
 Code for the paper 'Side Window based Box Filter for Spectral-Spatial Feature Extraction of Hyperspectral Imagery' submitted to TGRS.
 ```
-@article{zhang2021s3pca,
+@article{yan2021swbf,
   title={Side Window based Box Filter for Spectral-Spatial Feature Extraction of Hyperspectral Imagery},
   author={Qin Yan and Xinwei Jiang and Yongshan Zhang and Xiaobo Liu and Zhihua Cai},
   journal={IEEE Transactions on Geoscience and Remote Sensing},
